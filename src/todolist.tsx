@@ -28,7 +28,11 @@ export const TodoList = component("TodoList", () => {
         <footer className="info">
             <p>Double-click to edit a todo</p>
 
-            <p><a href="https://todomvc.com">TodoMVC</a> + <a href="https://github.com/traxjs/trax">Trax</a></p>
+            <p>
+                <a href="https://todomvc.com">TodoMVC</a>&nbsp;
+                + <a href="https://github.com/traxjs/trax">Trax</a>&nbsp;
+                + <a href="https://preactjs.com/">Preact</a>
+            </p>
             <p><a href="https://github.com/traxjs/todomvc">View Source</a></p>
         </footer>
     </div>

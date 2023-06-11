@@ -1,6 +1,6 @@
 # Trax TodoMVC
 
-This package contains a full implementation of the [TodoMVC] application with trax and [preact]
+This package contains a full implementation of the [TodoMVC] application with [trax] and [preact]
 
 --> 🚀 [Live demo][demo]
 
@@ -25,6 +25,7 @@ The trax implementation is composed of 2 files:
 
 Note: the test suite also demonstrates how trax internal events can be used to synchronize asynchronous tests (cf. ```log.awaitEvent```)
 
+[trax]: https://github.com/traxjs/trax
 [react]: https://reactjs.org/
 [preact]: https://preactjs.com/
 [TodoMVC]: https://todomvc.com/
